@@ -5,4 +5,7 @@ dependencies:
   - python
   - scikit-learn
   - git
+  - numpy
+  - pandas
+  - jupyterlab
 prefix: /Users/katemorse/opt/anaconda3/envs/comp30830
